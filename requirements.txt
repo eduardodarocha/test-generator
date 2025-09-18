@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+openai==1.3.3
+langchain-openai
+pytest
